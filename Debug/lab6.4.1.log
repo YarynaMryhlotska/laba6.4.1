@@ -1,0 +1,4 @@
+﻿  lab6.4.1.cpp
+C:\Users\marki\Desktop\Yaryna visual studio\lab6.4.1\lab6.4.1.cpp(27,16): warning C4552: '+': result of expression not used
+C:\Users\marki\Desktop\Yaryna visual studio\lab6.4.1\lab6.4.1.cpp(39,16): warning C4552: '-': result of expression not used
+  lab6.4.1.vcxproj -> C:\Users\marki\Desktop\Yaryna visual studio\lab6.4.1\Debug\lab6.4.1.exe
